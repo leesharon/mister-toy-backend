@@ -1,0 +1,98 @@
+[
+  {
+    "_id": "z102",
+    "name": "PowerRangerUpdated",
+    "price": 5000,
+    "labels": [
+      "Doll",
+      "Battery Powered",
+      "Baby"
+    ],
+    "createdAt": 1662478931155,
+    "inStock": true,
+    "reviews": [
+      {
+        "name": "Lee Sharon",
+        "rate": 5,
+        "txt": "Best toy ever",
+        "createdAt": 1662478931155
+      },
+      {
+        "name": "Puki D.",
+        "rate": 3,
+        "txt": "It breaks easily..",
+        "createdAt": 1662478931155
+      },
+      {
+        "name": "Shula F.",
+        "rate": 4,
+        "txt": "My kid loves to play with it",
+        "createdAt": 1662478931155
+      }
+    ]
+  },
+  {
+    "_id": "z103",
+    "name": "PowerPuff",
+    "price": 100,
+    "labels": [
+      "Doll",
+      "Battery Powered",
+      "Baby"
+    ],
+    "createdAt": 1662478931155,
+    "inStock": true,
+    "reviews": [
+      {
+        "name": "Lee Sharon",
+        "rate": 5,
+        "txt": "Best toy ever",
+        "createdAt": 1662478931155
+      },
+      {
+        "name": "Puki D.",
+        "rate": 3,
+        "txt": "It breaks easily..",
+        "createdAt": 1662478931155
+      },
+      {
+        "name": "Shula F.",
+        "rate": 4,
+        "txt": "My kid loves to play with it",
+        "createdAt": 1662478931155
+      }
+    ]
+  },
+  {
+    "name": "Shila",
+    "price": 999,
+    "inStock": true,
+    "_id": "Ewx13",
+    "createdAt": 1662488641420,
+    "labels": [
+      "Doll",
+      "Battery Powered",
+      "Baby"
+    ],
+    "reviews": [
+      {
+        "name": "Lee Sharon",
+        "rate": 5,
+        "txt": "Best toy ever",
+        "createdAt": 1662478931155
+      },
+      {
+        "name": "Puki D.",
+        "rate": 3,
+        "txt": "It breaks easily..",
+        "createdAt": 1662478931155
+      },
+      {
+        "name": "Shula F.",
+        "rate": 4,
+        "txt": "My kid loves to play with it",
+        "createdAt": 1662478931155
+      }
+    ]
+  }
+]
